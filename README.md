@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**joshuaa20/joshuaa20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - Hi, I’m Joshua
 - I’m interested in power systems
 - I’m currently learning C and C++.
